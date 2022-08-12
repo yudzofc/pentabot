@@ -1,21 +1,21 @@
 //=============『 Utama 』================== //
-global.owner = ['6285288342187'] 
-global.mods = [] 
+global.owner = ['6285693650294','6285600380823'] 
+global.mods = ['6285693650294','6285600380823'] 
 global.prems = [] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'Gempy⛧⁩⁩'
-global.numberowner = '6285288342187'
-global.instagram = 'https://www.instagram.com/gmpyyy'
-global.github = 'https://github.com/gmpyyy'
-global.dana = '6285288342187'
-global.pulsa = '6285288342187'
-global.gopay = '-'
+global.nameowner = 'YUDS⛧⁩⁩'
+global.numberowner = '6285693650294'
+global.instagram = 'https://www.instagram.com/lebihkerendariandy_warholl.093'
+global.github = 'https://github.com/yudzofc'
+global.dana = '6285693650294'
+global.pulsa = '6285600380823'
+global.gopay = '6285811571839'
 
 //=============『 Info Bot 』=================//
-global.namebot = 'PENTABOT'
-global.gc = 'https://chat.whatsapp.com/ElBB5NrJS637TYqjJLHuk2'
-global.web = 'https://www.youtube.com/channel/UCZoVmApPxtLYgUWwBD4nbCw' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
+global.namebot = 'YudsBotz'
+global.gc = 'https://chat.whatsapp.com/DnOeCnfvCvREjasisjOCpU'
+global.web = 'https://www.instagram.com/lebihkerendariandy_warholl.093' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.price1 = '1 bulan = 10.000\n2 Minggu 7.000\n1 Minggu 5.000'
 
 //=======『 Tampilan Dan Lainnya 』============//
@@ -23,10 +23,10 @@ global.fotonya1 = 'https://i.postimg.cc/MZjW7hb6/20220707-200605.jpg' //ganti ja
 global.fotonya2 = 'https://i.postimg.cc/MZjW7hb6/20220707-200605.jpg' //ini juga ganti 
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
-global.wm = 'PENTABOT'
+global.wm = 'YudsBotz'
 global.watermark = wm
-global.wm2 = '                     「PENTABOT⁩ 」'
-global.wm3 = 'Gempy⛧'
+global.wm2 = '                     「YudsBotz⁩」'
+global.wm3 = 'Yuds⛧'
 global.htki = '––––––『' 
 global.htka = '』––––––'
 global.media = 'https://i.postimg.cc/MZjW7hb6/20220707-200605.jpg'
@@ -37,7 +37,7 @@ global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 global.stiker_wait = 'Stiker sedang dibuat'
 global.packname = 'Created by'
-global.author = 'Gempy⛧⁩⁩'
+global.author = 'YudsBotz⛧⁩⁩'
 
 //=============『 Apikey 』================== //
 global.APIs = { // API Prefix
